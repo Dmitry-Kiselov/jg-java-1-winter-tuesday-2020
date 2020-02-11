@@ -1,4 +1,4 @@
-package lesson1.example1;
+package l2;
 
 public class SystemPrintlnDemo {
 

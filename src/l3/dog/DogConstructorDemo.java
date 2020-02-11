@@ -1,4 +1,4 @@
-package lesson2.dog;
+package l3.dog;
 
 public class DogConstructorDemo {
 

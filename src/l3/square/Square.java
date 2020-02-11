@@ -1,4 +1,4 @@
-package lesson2.square;
+package l3.square;
 
 public class Square {
 
